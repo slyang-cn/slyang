@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到slyang's Github
+这里会分享数据分析的一些内容，偶尔也会分享R语言的一些知识。欢迎收藏！
 
-You can use the [editor on GitHub](https://raw.githubusercontent.com/slyang-cn/slyang.github.io/gh-pages/china_map.Rmd) to maintain and preview the content for your website in Markdown files.
+![欢迎微信关注公众号](https://raw.githubusercontent.com/slyang-cn/slyang-cn.github.io/gh-pages/guanzhu.png)
+
+You can use the [editor on GitHub](https:) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
