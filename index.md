@@ -1,10 +1,10 @@
-## 欢迎来到slyang's Github
+# 欢迎来到slyang's Github
 这里会分享数据分析的一些内容，偶尔也会分享R语言的一些知识。欢迎收藏！
 
 ![中国地图](https://pic2.zhimg.com/80/v2-2c37fe63190d949758acd6415dffae9a_r.jpg)
 
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,11 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[知乎](https:https://www.zhihu.com/people/nobeli)
+
 ![微信公众号](https://raw.githubusercontent.com/slyang-cn/slyang-cn.github.io/gh-pages/guanzhu.png)
 
 
-
-
-### 拴小林Nobeli
+## about slyang
 [repository settings](https://github.com/slyang-cn/slyang.github.io/settings). 
