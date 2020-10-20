@@ -1,13 +1,21 @@
-# 欢迎来到拴小林（slyang's）Github
+# 拴小林のBlog
+这是slyang使用github创建的个人blog，放一首诗词，分享一下！！
 
-这里会分享数据分析的一些内容，偶尔也会分享R语言的一些知识。欢迎收藏！
+**凉州词-王之涣**  
+黄河远上白云间，一片孤城万仞山。  
+羌笛何须怨杨柳，春风不度玉门关。  
 
-![中国地图](https://pic2.zhimg.com/80/v2-2c37fe63190d949758acd6415dffae9a_r.jpg)
+## 欢迎扫码关注
+![微信公众号](https://raw.githubusercontent.com/slyang-cn/slyang-cn.github.io/gh-pages/guanzhu.png)
 
-## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## about slyang
+[知乎主页](https://www.zhihu.com/people/nobeli)  
+[Github页面设置](https://github.com/slyang-cn/slyang.github.io/settings)
 
+
+
+## 以下请忽略Markdown  
 ```markdown
 Syntax highlighted code block
 
@@ -25,10 +33,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-![微信公众号](https://raw.githubusercontent.com/slyang-cn/slyang-cn.github.io/gh-pages/guanzhu.png)
-
-
-## about slyang
-[知乎主页](https://www.zhihu.com/people/nobeli)
-[Github页面设置](https://github.com/slyang-cn/slyang.github.io/settings)
