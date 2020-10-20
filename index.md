@@ -1,8 +1,8 @@
-# 欢迎来到slyang's Github
+# 欢迎来到拴小林（slyang's）Github
+
 这里会分享数据分析的一些内容，偶尔也会分享R语言的一些知识。欢迎收藏！
 
 ![中国地图](https://pic2.zhimg.com/80/v2-2c37fe63190d949758acd6415dffae9a_r.jpg)
-
 
 ## Markdown
 
@@ -31,5 +31,4 @@ Syntax highlighted code block
 
 ## about slyang
 [知乎主页](https://www.zhihu.com/people/nobeli)
-
-[Github页面设置](https://github.com/slyang-cn/slyang.github.io/settings). 
+[Github页面设置](https://github.com/slyang-cn/slyang.github.io/settings)
